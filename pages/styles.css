@@ -1,0 +1,24 @@
+#__next {
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+    margin-top: 36px;
+    width: 180px;
+}
+
+.testmodal {
+    opacity: 0.9;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #fff;
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    inset: 0;
+}
